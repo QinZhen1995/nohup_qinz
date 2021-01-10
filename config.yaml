@@ -1,5 +1,6 @@
 baseurl: /
 languageCode: en-us
+draft: no
 title: A Hugo website
 theme: hugo-lithium
 googleAnalytics: ''
@@ -21,7 +22,6 @@ menu:
     - name: Twitter
       url: https://twitter.com/rstudio
 params:
-  draft: no
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
   description: A website built through Hugo and blogdown.
