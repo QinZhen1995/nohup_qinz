@@ -15,9 +15,10 @@ tags:
 * ###   wheat3下nginx实现端口转发
 #### wheat3下直接改配置文件
 ### 借用一个80端口可以从校外访问任意转发的主页
+
 ```
 vi /etc/nginx/nginx.conf
 sudo systemctl restart nginx  
 ```
-
-
+![alt p1](https://github.com/QinZhen1995/nohup_qinz/static/1.png "配置文件")
+![alt p2](https://github.com/QinZhen1995/nohup_qinz/static/2.png "配置文件")
