@@ -20,5 +20,5 @@ tags:
 vi /etc/nginx/nginx.conf
 sudo systemctl restart nginx  
 ```
-![alt p1](https://github.com/QinZhen1995/nohup_qinz/static/1.png "配置文件")
-![alt p2](https://github.com/QinZhen1995/nohup_qinz/static/2.png "配置文件")
+![alt p1](static/img/1.png "配置文件")
+![alt p2](static/img/2.png "配置文件")
