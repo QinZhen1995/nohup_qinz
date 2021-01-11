@@ -6,11 +6,10 @@ slug: wheat-sever-blog
 categories:
   - R
 tags:
-  - R Markdown
   - plot
+  - R Markdown
   - regression
 ---
-
 # 1.软件
 
 * ###   wheat3下nginx实现端口转发
@@ -20,4 +19,5 @@ tags:
 vi /etc/nginx/nginx.conf
 sudo systemctl restart nginx  
 ```
+
 
